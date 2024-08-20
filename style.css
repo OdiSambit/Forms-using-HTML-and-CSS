@@ -1,0 +1,25 @@
+
+.wrapper{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid whitesmoke; 
+   background-color: rgba(13, 9, 8, 0.559);
+    border-radius: 2px;
+    align-items: center;
+    padding: 25vh;
+    opacity: 20px;
+}
+.signup{
+    min-height: 100vh;
+    font-weight: 200;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(jai.avif);
+    background-size: cover;
+}
+p{
+    font-size: 15px;
+}
+#logo-in{
+  font-size: 30px;
+}
